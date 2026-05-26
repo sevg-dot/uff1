@@ -1,8 +1,3 @@
-try:
-    import plotly.express as px
-    print("PLOTLY OK")
-except Exception as e:
-    print("ERROR PLOTLY:", e)
 import streamlit as st
 import pandas as pd
 import numpy as np
