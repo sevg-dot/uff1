@@ -1,5 +1,5 @@
-streamlit
-plotly
+streamlit==1.57.0
 pandas
 numpy
+plotly==5.24.1
 openpyxl
