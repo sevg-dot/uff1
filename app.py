@@ -1,8 +1,3 @@
-import sys
-print(sys.executable)
-print(sys.path)
-import subprocess
-print(subprocess.check_output(["pip", "list"]).decode())
 import streamlit as st
 import pandas as pd
 import numpy as np
